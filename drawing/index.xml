@@ -8,7 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 08 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://b45n3tt.github.io/studio/drawing/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>drawing</title>
+      <title>draw/write</title>
+      <link>https://b45n3tt.github.io/studio/drawing/intervalsw/intervaldrawings/</link>
+      <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://b45n3tt.github.io/studio/drawing/intervalsw/intervaldrawings/</guid>
+      <description>writing drawing, 2021 drawing, 2021 drawing, 2021 drawing, 2021 drawing, 2021 drawing, 2021 drawing, 2021 drawing, 2021 drawing, 2021 </description>
+    </item>
+    
+    <item>
+      <title>drawing p1</title>
       <link>https://b45n3tt.github.io/studio/drawing/intervals/intervaldrawings/</link>
       <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
       
@@ -17,7 +26,7 @@
     </item>
     
     <item>
-      <title>drawing</title>
+      <title>drawing p2</title>
       <link>https://b45n3tt.github.io/studio/drawing/intervals/intervaldrawings2/</link>
       <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
       
@@ -26,21 +35,12 @@
     </item>
     
     <item>
-      <title>drawing</title>
+      <title>Explanatory drawing</title>
       <link>https://b45n3tt.github.io/studio/drawing/intervalse/intervaldrawings/</link>
       <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
       
       <guid>https://b45n3tt.github.io/studio/drawing/intervalse/intervaldrawings/</guid>
       <description>explanation drawing, 2021 drawing, 2021 drawing, 2021 drawing, 2021 drawing, 2021 drawing, 2021 drawing, 2021 drawing, 2021 drawing, 2021 drawing, 2021 drawing, 2021 drawing, 2021 drawing, 2021 drawing, 2021 drawing, 2021 drawing, 2021 drawing, 2021 drawing, 2021 </description>
-    </item>
-    
-    <item>
-      <title>drawing</title>
-      <link>https://b45n3tt.github.io/studio/drawing/intervalsw/intervaldrawings/</link>
-      <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://b45n3tt.github.io/studio/drawing/intervalsw/intervaldrawings/</guid>
-      <description>writing drawing, 2021 drawing, 2021 drawing, 2021 drawing, 2021 drawing, 2021 drawing, 2021 drawing, 2021 drawing, 2021 drawing, 2021 </description>
     </item>
     
   </channel>

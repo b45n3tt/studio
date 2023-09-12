@@ -9,7 +9,7 @@ title = ""
 
 Over time, I've come to embrace and appreciate the diversity and sporadic nature of my work approach. Music has always been a source of solace for me. More recently, my focus has shifted toward it, encompassing two distinct aspects:
 
-Firstly, there's a dedication to improvement within this medium, involving a deeper understanding of chords, notes, and timing. In my pursuit of improvement, I built a guitar that is more suited to my specific requirements—a full-scale fretboard on a more compact student-sized body.
+Firstly, there's a dedication to improvement within this medium, involving a deeper understanding of chords, notes, and timing. In my pursuit of improvement, I built a **[guitar](../portfolio/furniture/images/guitar.png)** that is more suited to what I wanted—a full-scale fretboard on a compact body.
 
 The second aspect is music theory, recognizing its structural framework for creation across mediums. This approach naturally extended to my work in drawing and sculpture, providing a different perspective and foundation.
 

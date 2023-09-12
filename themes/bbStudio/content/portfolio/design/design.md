@@ -10,4 +10,4 @@ weight = 9
 Concept furniture design
 <!--more-->
 
-{{< figure src="../images/shirtShorts.jpg" title="Armoire, 2022" >}}
+{{< figure src="../images/shirtShorts.jpg" title="Armoire, Autodesk Inventor" >}}

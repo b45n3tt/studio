@@ -2,7 +2,7 @@
 draft = false
 image = "drawing/intervals/images/draw-48.png"
 date = "2023-09-08"
-title = "drawing"
+title = "drawing p2"
 showonlyimage = true
 weight = 0
 +++

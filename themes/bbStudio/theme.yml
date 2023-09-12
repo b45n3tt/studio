@@ -1,0 +1,17 @@
+name = "bbStudioTheme"
+license = "MIT"
+licenselink = ""
+description = ""
+homepage = "http://brianbasnett.com/"
+tags = []
+features = []
+min_version = "0.41.0"
+
+[author]
+  name = "BRianB"
+  homepage = "https://brianbasnett.com"
+
+# If porting an existing theme
+[original]
+  name = "bootstrapious"
+  homepage = "https://bootstrapious.com/p/creative-portfolio"

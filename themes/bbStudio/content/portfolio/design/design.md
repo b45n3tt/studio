@@ -3,7 +3,7 @@ image = "portfolio/design/images/shirtShorts.jpg"
 showonlyimage = true
 draft = false
 date = "2023-09-03"
-title = "FurnitureDesign"
+title = "Furniture Design"
 weight = 9
 +++
 

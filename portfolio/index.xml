@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on brian basnett studio</title>
+    <link>https://b45n3tt.github.io/studio/portfolio/</link>
+    <description>Recent content in Portfolios on brian basnett studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://b45n3tt.github.io/studio/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>time was a woman</title>
+      <link>https://b45n3tt.github.io/studio/portfolio/yellow/work3/</link>
+      <pubDate>Mon, 05 Dec 2022 19:44:32 +0530</pubDate>
+      
+      <guid>https://b45n3tt.github.io/studio/portfolio/yellow/work3/</guid>
+      <description>&lt;p&gt;Study on triads.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Selected Works</title>
+      <link>https://b45n3tt.github.io/studio/portfolio/selected/selected/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://b45n3tt.github.io/studio/portfolio/selected/selected/</guid>
+      <description>&lt;p&gt;Circa 2016-2020&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Akrasia</title>
+      <link>https://b45n3tt.github.io/studio/portfolio/akrasia/akrasia/</link>
+      <pubDate>Sat, 05 Nov 2022 18:25:22 +0530</pubDate>
+      
+      <guid>https://b45n3tt.github.io/studio/portfolio/akrasia/akrasia/</guid>
+      <description>&lt;p&gt;procrastination on a grand scale&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>FurnitureDesign</title>
+      <link>https://b45n3tt.github.io/studio/portfolio/design/design/</link>
+      <pubDate>Sun, 03 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://b45n3tt.github.io/studio/portfolio/design/design/</guid>
+      <description>&lt;p&gt;Concept furniture design&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>selectedFurniture</title>
+      <link>https://b45n3tt.github.io/studio/portfolio/furniture/furniture/</link>
+      <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://b45n3tt.github.io/studio/portfolio/furniture/furniture/</guid>
+      <description>&lt;p&gt;For the sake of cataloging, furniture encompasses most any object that has function, even if that function is implied.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Codes on brian basnett studio</title>
+    <link>https://b45n3tt.github.io/studio/code/</link>
+    <description>Recent content in Codes on brian basnett studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://b45n3tt.github.io/studio/code/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sketch</title>
+      <link>https://b45n3tt.github.io/studio/code/etchscketch/etchyscetch/</link>
+      <pubDate>Wed, 06 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://b45n3tt.github.io/studio/code/etchscketch/etchyscetch/</guid>
+      <description>Etch-e-scetch model with alterations. </description>
+    </item>
+    
+    <item>
+      <title>Timing Carousel</title>
+      <link>https://b45n3tt.github.io/studio/code/carousel/carousel/</link>
+      <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://b45n3tt.github.io/studio/code/carousel/carousel/</guid>
+      <description>Animated note lengths guided loosely by the principles of music theory. </description>
+    </item>
+    
+  </channel>
+</rss>

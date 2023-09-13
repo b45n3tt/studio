@@ -51,14 +51,14 @@
     background-color: #f8e405; /*matches menu color :static/css/style.red.css(sidebar menu:hover)*/
     }
 }
-/* Apply 7x scale transition only on screens wider than 768px */
+/* Apply 20x scale transition only on screens smallerer than 768px */
 @media screen and (max-width: 768px) {
   .btn {
         /* transition: transform 1000ms; */
          transition:  2s ease-in-out; 
   }
   
-  .btn:hover {
+  .btn:active {
     transform:  scale(20);
     transition:  2s ease-in-out; /* Smooth transition on hover */
     /* filter: brightness(150%) sepia(200%) saturate(200%) hue-rotate(20deg) ; Apply a yellow color effect on hover */
